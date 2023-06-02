@@ -1,0 +1,60 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 24px;
+    /* margin-bottom: 10px; */
+  }
+  
+  #instructions {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 40px;
+    display: flex;
+  }
+
+  #plusIcon {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    font-weight: 100;
+  }
+
+  #test {
+    margin: 0;
+    padding: 0;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    font-weight: 100;
+  }
+
+  #instructions p {
+    text-align: center;
+  }
+
+  #nextInstruction {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    font-size: 40px;
+  }
+
+
+  html, body {margin: 0; height: 100%; overflow: hidden}
